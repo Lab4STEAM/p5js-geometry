@@ -1,2 +1,2 @@
 # p5js-geometry
-Edu scripts in p5js
+Edu scripts in p5js for Geometry.
